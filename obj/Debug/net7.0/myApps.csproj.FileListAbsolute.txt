@@ -1,0 +1,15 @@
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\bin\Debug\net7.0\myApps.exe
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\bin\Debug\net7.0\myApps.deps.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\bin\Debug\net7.0\myApps.runtimeconfig.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\bin\Debug\net7.0\myApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\bin\Debug\net7.0\myApps.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.csproj.AssemblyReference.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.AssemblyInfoInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.AssemblyInfo.cs
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\refint\myApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\myApps.genruntimeconfig.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan13\myApps\obj\Debug\net7.0\ref\myApps.dll
